@@ -2,3 +2,8 @@ body {
   font-family: 'Work Sans';
   padding: 20px 60px
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
