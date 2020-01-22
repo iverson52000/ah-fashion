@@ -10,10 +10,10 @@ import CartDropdown from '../cart-dropdown/cart-dropdown.component';
 import {selectCartHidden} from '../../redux/cart/cart.selectors';
 import {selectCurrentUser} from '../../redux/user/user.selectors';
 
-
 import './header.styles.scss';
 
 const Header = ({currentUser, hidden}) => (
+
   <div className = 'header'>
     <Link className = 'logo-container' to = '/'>
       <Logo className = 'logo' style={{height: 90, width: 90}}/>
