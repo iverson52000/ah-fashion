@@ -4,4 +4,4 @@
 * Developed the front-end with React, React Router, and Redux, Redux-logger for state management and middlewares
 * Developed the serverless back-end with Firebase, Cloud Firestore and deployed the app on Heroku
 * Implemented unit tests in jest and enzyme for testing functions and React components
-*Framework: JavaScript (ES6), React, Redux, Firebase, Firestore, jest, enzyme
+* Framework: JavaScript (ES6), React, Redux, Firebase, Firestore, jest, enzyme
